@@ -1,0 +1,2 @@
+The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS in English of 5.574 messages tagged as ham (legitimate) or spam - 747 spam messages and 4.827 ham messages.
+The LSTM Network was trained on this database and have the following average accuracy: 98.36%.
